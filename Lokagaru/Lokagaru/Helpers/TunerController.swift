@@ -25,7 +25,6 @@ final class TunerController: ObservableObject {
     }
 
     func start() {
-        // UIApplication.shared.isIdleTimerDisabled = true
         guard hasMicrophoneAccess else { return }
         // Settings.audioInputEnabled = true
         do {
