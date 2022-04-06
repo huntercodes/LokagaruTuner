@@ -7,7 +7,7 @@
 
 import Darwin.C.math
 
-/// A note in a twelve-tone equal temperament scale. https://en.wikipedia.org/wiki/Equal_temperament
+/// A note in a twelve-tone equal scale.
 enum ScaleNote: Int, CaseIterable {
     case C, CSharp_DFlat, D, DSharp_EFlat, E, F, FSharp_GFlat, G, GSharp_AFlat, A, ASharp_BFlat, B
 
