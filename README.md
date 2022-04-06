@@ -1,2 +1,2 @@
 # Lokagaru
-Tuner built in Swift/SwiftUI. (iOS 15+)
+Chromatic Tuner built in Swift/SwiftUI. (iOS 15+)
