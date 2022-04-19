@@ -29,7 +29,12 @@ struct TranspositionMenu: View {
                 Text(transpositions[selectedTransposition])
                     // Increase tap area, some of the transpositions are just a single
                     // letter so the tap area can otherwise be quite small.
-                    .frame(minWidth: 100, alignment: .leading)
+                    .font(.system(.title3, design: .serif))
+                    .frame(minWidth: 75)
+                    .padding(4)
+                    .cornerRadius(20)
+                    .background(Color(hex: 0x417d7a))
+                    .foregroundColor(Color(hex: 0xede6db))
             }
         )
         .transaction { transaction in
