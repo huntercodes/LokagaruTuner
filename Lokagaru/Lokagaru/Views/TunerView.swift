@@ -13,6 +13,17 @@ struct TunerView: View {
     @AppStorage("selectedTransposition") private var selectedTransposition = 0
 
     private var tunerData: TunerData { tunerController.data }
+    
+    init() {
+        let coloredAppearance = UINavigationBarAppearance()
+        
+        coloredAppearance.backgroundColor = UIColor(red: 65/255, green: 125/255, blue: 122/255, alpha: 1.0)
+        coloredAppearance.titleTextAttributes = [ .foregroundColor: UIColor(red: 237/255, green: 230/255, blue: 219/255, alpha: 1.0), .font: UIFont(name: "GillSans-SemiBold", size: 22)!]
+        UINavigationBar.appearance().tintColor = UIColor(red: 237/255, green: 230/255, blue: 219/255, alpha: 1.0)
+        
+        UINavigationBar.appearance().standardAppearance = coloredAppearance
+        UINavigationBar.appearance().scrollEdgeAppearance = coloredAppearance
+    }
 
     var body: some View {
         VStack(alignment: .noteCenter) {
