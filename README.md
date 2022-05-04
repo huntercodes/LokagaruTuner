@@ -1,7 +1,10 @@
 # Lokagaru
-Chromatic Tuner built in Swift/SwiftUI. (iOS 15+)
+Out now on the iOS App Store! (Available on macOS if Silicon) (iOS 15+)
 
-Out now on the iOS App Store! (macOS if Silicon)
+- Swift
+- SwiftUI
+- AudioKit
+- Custom Font Files
 
 
 ![IMB_FTNqln](https://user-images.githubusercontent.com/85328038/165891900-56bbe553-fbd2-469e-a3ed-b5c118eeec21.GIF)
