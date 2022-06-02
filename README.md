@@ -8,7 +8,7 @@ Out now on the iOS App Store! (Available on macOS if Silicon) (iOS 15+)
 - Light/Dark Modes
 
 
-![image](https://user-images.githubusercontent.com/85328038/169925630-cc1717a2-cd7f-43c9-b892-8cb3cb611cc5.png)
+<img width="584" alt="Screen Shot 2022-06-02 at 5 15 42 PM" src="https://user-images.githubusercontent.com/85328038/171747478-649e6055-9d8d-45fa-bcfe-7f1602e3e71e.png">
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 10 50](https://user-images.githubusercontent.com/85328038/168958238-19f15303-1ec8-4229-86d1-d227b50b3c25.png)
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 10 55](https://user-images.githubusercontent.com/85328038/168958243-fd7eed8d-dd65-4319-a3fa-d2f3f546def7.png)
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 11 32](https://user-images.githubusercontent.com/85328038/168958247-c616b7ce-a5f0-48c2-bf18-3d6683cc0bab.png)
