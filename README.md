@@ -9,7 +9,8 @@ Out now on the iOS App Store! (Available on macOS if Silicon) (iOS 15+)
 
 
 <img width="584" alt="Screen Shot 2022-06-02 at 5 15 42 PM" src="https://user-images.githubusercontent.com/85328038/171747478-649e6055-9d8d-45fa-bcfe-7f1602e3e71e.png">
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 10 50](https://user-images.githubusercontent.com/85328038/168958238-19f15303-1ec8-4229-86d1-d227b50b3c25.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 10 55](https://user-images.githubusercontent.com/85328038/168958243-fd7eed8d-dd65-4319-a3fa-d2f3f546def7.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 11 32](https://user-images.githubusercontent.com/85328038/168958247-c616b7ce-a5f0-48c2-bf18-3d6683cc0bab.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 11 36](https://user-images.githubusercontent.com/85328038/168958253-366e4593-cc2e-4b34-849b-a3ba61823171.png)
+
+![Apple iPhone 11 Pro Max (5)](https://user-images.githubusercontent.com/85328038/171747721-120a09c0-16ea-499f-9af8-beed6764e91b.png)
+![Apple iPhone 11 Pro Max (6)](https://user-images.githubusercontent.com/85328038/171747728-a4b66e3b-aedd-475a-9f45-51fe9422742e.png)
+![Apple iPhone 11 Pro Max (8)](https://user-images.githubusercontent.com/85328038/171747780-bce15695-6e7e-42a6-acc2-415443bbd327.png)
+![Apple iPhone 11 Pro Max (7)](https://user-images.githubusercontent.com/85328038/171747784-861f3552-1959-48e7-8119-1faf141f9605.png)
