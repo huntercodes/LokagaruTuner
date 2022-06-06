@@ -6,6 +6,7 @@ Out now on the iOS App Store! (Available on macOS if Silicon) (iOS 15+)
 - AudioKit
 - Custom Font Files
 - Light/Dark Modes
+- Available now: https://apps.apple.com/us/app/lokagaru/id1618394520
 
 
 <img width="584" alt="Screen Shot 2022-06-02 at 5 15 42 PM" src="https://user-images.githubusercontent.com/85328038/171747478-649e6055-9d8d-45fa-bcfe-7f1602e3e71e.png">
